@@ -1,3 +1,5 @@
 .gradle/
 .idea/
 html/
+/desktop/build/
+/core/build/
